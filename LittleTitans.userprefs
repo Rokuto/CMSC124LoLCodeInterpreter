@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="LittleTitans\LittleTitans.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LittleTitans/MainWindow.cs">
+    <Files>
+      <File FileName="LittleTitans/MainWindow.cs" Line="396" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

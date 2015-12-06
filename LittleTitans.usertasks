@@ -1,0 +1,7 @@
+<ListOfTask>
+  <Task file="" description="Check HAI" completed="True" />
+  <Task file="" description="Check KTHXBYE" completed="True" />
+  <Task file="" description="Check variable declaration" completed="True" />
+  <Task file="" description="Check variable initialization" />
+  <Task file="" description="Check variable declaration + initialization" />
+</ListOfTask>

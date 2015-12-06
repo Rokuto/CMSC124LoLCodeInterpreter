@@ -1,0 +1,12 @@
+/home/jcud/Desktop/cmsc 124/project/LittleTitans/LittleTitans/LittleTitans/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/jcud/Desktop/cmsc 124/project/LittleTitans/LittleTitans/LittleTitans/obj/x86/Release/LittleTitans.gtk-gui.gui.stetic
+/home/jcud/Desktop/cmsc 124/project/LittleTitans/LittleTitans/LittleTitans/bin/Release/LittleTitans.exe.mdb
+/home/jcud/Desktop/cmsc 124/project/LittleTitans/LittleTitans/LittleTitans/bin/Release/LittleTitans.exe
+/home/jcud/Desktop/cmsc 124/project/LittleTitans/LittleTitans/LittleTitans/obj/x86/Release/LittleTitans.exe
+/home/jcud/Desktop/cmsc 124/project/LittleTitans/LittleTitans/LittleTitans/obj/x86/Release/LittleTitans.exe.mdb
+/home/jcud/Desktop/cmsc 124/LittleTitans/LittleTitans/LittleTitans/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/jcud/Desktop/cmsc 124/LittleTitans/LittleTitans/LittleTitans/obj/x86/Release/LittleTitans.gtk-gui.gui.stetic
+/home/jcud/Desktop/cmsc 124/LittleTitans/LittleTitans/LittleTitans/bin/Release/LittleTitans.exe.mdb
+/home/jcud/Desktop/cmsc 124/LittleTitans/LittleTitans/LittleTitans/bin/Release/LittleTitans.exe
+/home/jcud/Desktop/cmsc 124/LittleTitans/LittleTitans/LittleTitans/obj/x86/Release/LittleTitans.exe
+/home/jcud/Desktop/cmsc 124/LittleTitans/LittleTitans/LittleTitans/obj/x86/Release/LittleTitans.exe.mdb
